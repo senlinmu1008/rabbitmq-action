@@ -1,0 +1,9 @@
+server:
+  port: 30300
+
+spring:
+  rabbitmq:
+    host: 148.70.153.63
+    port: 5672
+    username: libai
+    password: password
